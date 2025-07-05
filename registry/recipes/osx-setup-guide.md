@@ -52,7 +52,7 @@ If you want to understand, you should read [How to Write Go Code](https://golang
 Copy the registry configuration file in place:
 
     mkdir /Users/Shared/Registry
-    cp docs/recipes/osx/config.yml /Users/Shared/Registry/config.yml
+    cp docs/content/recipes/osx/config.yml /Users/Shared/Registry/config.yml
 
 ## Run the Docker Registry under launchd
 
